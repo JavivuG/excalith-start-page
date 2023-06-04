@@ -124,6 +124,11 @@ const defaultConfig = {
 						"name": "Campus UVa",
 						"url": "https://campusvirtual.uva.es/my/",
 						"icon": "devicon-plain:moodle"
+					},
+					{
+						"name": "Aula Virtual UVa",
+						"url": "https://aulas.inf.uva.es/",
+						"icon": "devicon-plain:moodle-wordmark"
 					}
 				]
 			},
